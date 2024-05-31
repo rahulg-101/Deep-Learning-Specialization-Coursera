@@ -3,7 +3,7 @@
 #### Complete course along with lecture slides,additional notes and project notebooks taught by the famous Andrew Ng !! 
 
 1. This repository is for those interested in learning Deep-Learning from scratch and although it's not necessary but its good to have basic understanding of machine learning (You can refer [https://github.com/rahulg-101/Complete-Machine-Learning-Guide-using-Scikit-Learn], mathematics behind few algorithms like Logistic Regression, and python knowledge.
-2. Also, if you are not very fond of getting a certificate and rather want to just expand your knowledge base in the field or if you're also a little short on budget to purchase the actual course, then you are THE RIGHT PLACE !! 
+2. Also, if you are not very fond of getting a certificate and rather want to just expand your knowledge base in the field or if you're also a little short on budget to purchase the actual course, then you are at THE RIGHT PLACE !! 
 
 > ## Important Note:
 > This repo although has all the contents associated with the original course but **`SOME PROJECTS`** from particular weeks if you try to run locally in your system might not work from Course 4(Week 2) & 5(Week 1 and Ungraded Labs 2 & 3 from Week 4) since the associated project dependencies were too large and due to GITHUB memory constraints, I was unable to push them into the repository.
