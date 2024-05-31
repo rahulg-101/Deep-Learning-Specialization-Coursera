@@ -2,7 +2,7 @@
 
 #### Complete course along with lecture slides,additional notes and project notebooks taught by the famous Andrew Ng !! 
 
-1. This repository is for those interested in learning Deep-Learning from scratch and although it's not necessary but its good to have basic understanding of machine learning, mathematics behind few algorithms like Logistic Regression, and python knowledge.
+1. This repository is for those interested in learning Deep-Learning from scratch and although it's not necessary but its good to have basic understanding of machine learning (You can refer [https://github.com/rahulg-101/Complete-Machine-Learning-Guide-using-Scikit-Learn], mathematics behind few algorithms like Logistic Regression, and python knowledge.
 2. Also, if you are not very fond of getting a certificate and rather want to just expand your knowledge base in the field or if you're also a little short on budget to purchase the actual course, then you are THE RIGHT PLACE !! 
 
 > ## Important Note:
