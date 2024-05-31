@@ -1,11 +1,22 @@
 # Deep-Learning-Specialization-Coursera
-Complete course along with lecture slides,additional notes and project notebooks
 
+#### Complete course along with lecture slides,additional notes and project notebooks taught by the famous Andrew Ng !! 
 
-This repo consists of all the course lecture slides along with project notebooks present in a course-wise manner 
+1. This repository is for those interested in learning Deep-Learning from scratch and although it's not necessary but its good to have basic understanding of machine learning, mathematics behind few algorithms like Logistic Regression, and python knowledge.
+2. Also, if you are not very fond of getting a certificate and rather want to just expand your knowledge base in the field or if you're also a little short on budget to purchase the actual course, then you are THE RIGHT PLACE !! 
 
-### Workflow of the repo 
-  > Course Number > Week > Projects 
+> ## Important Note:
+> This repo although has all the contents associated with the original course but **`SOME PROJECTS`** from particular weeks if you try to run locally in your system might not work from Course 4(Week 2) & 5(Week 1 and Ungraded Labs 2 & 3 from Week 4) since the associated project dependencies were too large and due to GITHUB memory constraints, I was unable to push them into the repository.
+
+### HEADS UP
+The course is formulated in very simple and easy to understand way but since the course covers a whole lot of topics,so completing it might take some time but ITS TOTALLY WORTH !!
+The videos associated with particular courses' of the specialization are also available on YouTube if you need them, so you have everything you need to get started !!
+
+This repo consists of all the course lecture slides along with project notebooks present in a structured manner as present in the original course.
+
+### Repo Structure as per the Workflow -->  
+
+> Course Number > Week > Week Slides & Project Notebooks
 
 1. Course 1 - Neural Networks and Deep Learning
    - Week 1 - Intro to Deep Learning
@@ -33,7 +44,7 @@ This repo consists of all the course lecture slides along with project notebooks
     - Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
          - TensorFlow Introduction
 
- 3. Course 3 - Structuring Machine Learning Projects
+3. Course 3 - Structuring Machine Learning Projects
     - Week 1 - ML Strategy 1
     - Week 2 - ML Strategy 2
    
@@ -56,8 +67,8 @@ This repo consists of all the course lecture slides along with project notebooks
        
 5. Course 5 -  Sequence Models
      - Week 1 - Recurrent Neural Networks
-         - Building your Recurrent Neural Network - Step by Step•180 minutes
-         - Dinosaur Island-Character-Level Language Modeling •180 minutes
+         - Building your Recurrent Neural Network - Step by Step
+         - Dinosaur Island-Character-Level Language Modeling
          - Jazz Improvisation with LSTM
      
      - Week 2 -  NLP and Word Embeddings
@@ -71,6 +82,9 @@ This repo consists of all the course lecture slides along with project notebooks
      - Week 4 - Transformer Network
         - Transformers Architecture with TensorFlow
         - Optional Labs
-            - Transformer Pre-processing•60 minutes
-            - Transformer Network Application: Named-Entity Recognition•60 minutes
+            - Transformer Pre-processing
+            - Transformer Network Application: Named-Entity Recognition
             - Transformer Network Application: Question Answering
+
+
+#### Thank You
